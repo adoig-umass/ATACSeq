@@ -1,0 +1,6 @@
+computeMatrix reference-point --referencePoint center \
+-b 500 -a 500 \
+-R /home/adoig/referenceGenomes/Homo_sapiens.GRCh38.112.gtf \
+-S /home/adoig/nextflow/ATACSEQgchr38local/bwa/merged_replicate/bigwig/control.mRp.clN.bigWig /home/adoig/nextflow/ATACSEQgchr38local/bwa/merged_replicate/bigwig/treatment.mRp.clN.bigWig \
+-- skipZeros \
+-o matrixout.gz

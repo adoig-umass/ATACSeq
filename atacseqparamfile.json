@@ -1,0 +1,10 @@
+{
+    "input": "\/home\/adoig\/nextflow\/sample_sheet_PCW57_only.csv",
+    "read_length": 150,
+    "outdir": "\/home\/adoig\/nextflow\/ATACSEQgchr38local",
+    "email": "adoig@umass.edu",
+    "fasta": "\/home\/adoig\/referenceGenomes\/Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa.gz",
+    "gtf": "\/home\/adoig\/referenceGenomes\/Homo_sapiens.GRCh38.112.gtf.gz",
+    "macs_gsize": 2862010578,
+    "save_reference": true
+}

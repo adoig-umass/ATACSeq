@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,condition,replicate
+DOX_BR1,/home/adoig/data/atac1/i5_57_DOX_BR1_CKDL240017069-1A_22MKNNLT3_L2_1.fq.gz,/home/adoig/data/atac1/i5_57_DOX_BR1_CKDL240017069-1A_22MKNNLT3_L2_2.fq.gz,control,1
+DOX_BR2,/home/adoig/data/atac1/i11_57_DOX_BR2_CKDL240017075-1A_22MKNNLT3_L2_1.fq.gz,/home/adoig/data/atac1/i11_57_DOX_BR2_CKDL240017075-1A_22MKNNLT3_L2_2.fq.gz,control,2
+DMSO_BR1,/home/adoig/data/atac1/i6_57_DMSO_BR1_CKDL240017070-1A_22MKNNLT3_L2_1.fq.gz,/home/adoig/data/atac1/i6_57_DMSO_BR1_CKDL240017070-1A_22MKNNLT3_L2_2.fq.gz,treated,1
+DMSO_BR2,/home/adoig/data/atac1/i12_57_DMSO_BR2_CKDL240017076-1A_22MKNNLT3_L2_1.fq.gz,/home/adoig/data/atac1/i12_57_DMSO_BR2_CKDL240017076-1A_22MKNNLT3_L2_2.fq.gz,treated,2
