@@ -7,3 +7,4 @@ I have not removed the wildtype or the KO only data. The analysis was performed 
 
 I also need to filter out the blacklist regions.
 
+Okay, so I think I see that the quality of one of the 
